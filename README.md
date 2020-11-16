@@ -1,3 +1,5 @@
-# homework_1
+# Code Refactor
 
-Edited html and css files for marketing agency aiming to make webpage more accesible with semantic html text
+Edited html and css files for marketing agency aiming to make webpage more accesible with semantic html text.
+
+
